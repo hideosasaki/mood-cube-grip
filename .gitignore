@@ -10,3 +10,7 @@ _site
 *.tgz
 .header.json
 .simstate.json
+
+# pxt target microbit が npm install で生成する副産物
+package.json
+package-lock.json
