@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "mood-cube-blocks": "github:hideosasaki/mood-cube-blocks#v1.0.4"
+        "mood-cube-blocks": "github:hideosasaki/mood-cube-blocks#v1.0.5"
     },
     "files": [
         "main.blocks",
