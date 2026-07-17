@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "mood-cube-blocks": "github:hideosasaki/mood-cube-blocks#v1.1.1"
+        "mood-cube-blocks": "github:hideosasaki/mood-cube-blocks#v1.1.2"
     },
     "files": [
         "main.blocks",
@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "9.0.3",
+        "target": "9.0.5",
         "targetId": "microbit"
     },
     "supportedTargets": [
